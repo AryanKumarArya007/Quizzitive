@@ -1,29 +1,29 @@
-<H3>Quizzitive</H3> 
+<H3>Quizzitive</H3> </BR>
 
-This is a simple quiz application built using HTML,CSS, Bootstrap, and JavaScript. It provides a user interface for taking quizzes on various topics related to the Indian Air Force.
+This is a simple quiz application built using HTML,CSS, Bootstrap, and JavaScript. It provides a user interface for taking quizzes on various topics related to the Indian Air Force.</BR>
 
-<B>Files Included</B>
+<B>Files Included</B></BR>
 index.html: Main HTML file that defines the structure of the quiz interface.
 style.css: CSS file for styling the quiz interface.
 app.js: JavaScript file containing script for quiz functionality.
 README.md: This documentation file.
 
 
-<B>Features</B>
+<B>Features</B></BR>
 Navigation: Includes a navigation bar with links to Home, Leaderboard, and different quiz topics under a dropdown menu.
 Quiz Interface: Displays questions and answer options dynamically.
 Bootstrap Integration: Utilizes Bootstrap for responsive design and interactive components like navigation toggler and buttons.
 
 
-<B>How to Use</B>
+<B>How to Use</B></BR>
 Setup: Clone the repository or download the files.
 Open: Open index.html in a web browser.
 Navigation: Use the navigation links to explore different sections of the quiz.
 Quiz Interaction: Click on the answer buttons to select an answer. Click "Next" to proceed to the next question.
 
-<B>Contributing</B>
+<B>Contributing</B></BR></BR>
 Contributions are welcome! If you find issues or want to add features, please fork the repository and submit a pull request.
 
-<B>Credits</B>
+<B>Credits</B></BR>
 Fonts: Google Fonts - Poppins
 Bootstrap: Bootstrap CSS and JavaScript for styling and functionality.
