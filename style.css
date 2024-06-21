@@ -1,0 +1,80 @@
+body{
+    background-color: #3a506b;
+}
+
+.navbar{
+    background-color: #5bc0be;
+    
+}
+
+.navbar-brand{
+    color: rgb(4, 9, 13);
+}
+
+.nav-link{
+    color: rgb(1, 1, 2);
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+#container{
+    background-color: white;
+    height: 60vh;
+    width : 35vw;
+    border-radius: 7px;
+    padding: 1%;
+    
+}
+
+.mainarea {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 15vh;
+    
+  }
+
+  .butn{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+    width:100%;
+    border:1px solid black;
+    padding:2px;
+    text-align: left;
+    margin-top: 3%;
+    border-radius: 8px;
+    height: 43px;
+  }
+
+  .butn:hover.butn:hover:not([disable]){
+    background-color: black;
+    color: white;
+
+  }
+
+  .butn:disabled{
+    cursor: no-drop;
+  }
+
+  .btn{
+    margin-top: 6%;
+    margin-left: 42%;
+    width: 20%;
+  }
+
+  .btn:hover{
+   background-color: rgb(46, 58, 229);
+  }
+
+  .correct{
+    background-color: rgb(61, 247, 24);
+  }
+
+  .incorrect{
+    background-color: rgb(248, 6, 6);
+  }
